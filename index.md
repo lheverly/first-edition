@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Lucas Heverly's Work
 ---
 
